@@ -1,0 +1,12 @@
+/data/app/SecCalculator_N_R/SecCalculator_N_R.apk
+/data/app/Videos/Videos.apk
+/data/app/Duo/Duo.apk
+/data/app/Drive/Drive.apk
+/data/app/Music2/Music2.apk
+/data/app/VoiceNote_5.0/VoiceNote_5.0.apk
+/data/app/SamsungMembers_Removable/SamsungMembers_Removable.apk
+/data/app/Photos/Photos.apk
+/data/app/Notes_Removable/Notes_Removable.apk
+/data/app/SamsungPayStub/SamsungPayStub.apk
+/data/app/SBrowser_7.4_Removable/SBrowser_7.4_Removable.apk
+/data/app/SecEmail_O/SecEmail_O.apk
