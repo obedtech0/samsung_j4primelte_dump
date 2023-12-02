@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appList>
+  <appInfo>
+    <package>al.myvodafone.android</package>
+    <mandatory>true</mandatory>
+    <downloadType>samsungapps</downloadType>
+    <appName>MyVodafone</appName>
+  </appInfo>
+</appList>

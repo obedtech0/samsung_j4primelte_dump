@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+  <LanguageCode>fr</LanguageCode>
+  <CountryCode>fr</CountryCode>
+  <Version>3.2.20</Version>
+  <PCLMVersion>1.0.0</PCLMVersion>
+  <Corpus>v1.3</Corpus>
+</config>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appList>
+  <appInfo>
+    <package>hr.infinum.mojvip</package>
+    <mandatory>true</mandatory>
+    <downloadType>samsungapps</downloadType>
+    <appName>Moj A1</appName>
+  </appInfo>
+</appList>

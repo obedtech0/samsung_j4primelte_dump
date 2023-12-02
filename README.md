@@ -1,0 +1,19 @@
+## j4primeltecis-user 8.1.0 M1AJQ J415FNXXU1ARK5 release-keys
+- Manufacturer: samsung
+- Platform: msm8937
+- Codename: j4primelte
+- Brand: samsung
+- Flavor: j4primeltecis-user
+- Release Version: 8.1.0
+- Kernel Version: 3.18.71
+- Id: M1AJQ
+- Incremental: J415FNXXU1ARK5
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: samsung/j4primeltecis/j4primelte:8.1.0/M1AJQ/J415FNXXU1ARK5:user/release-keys
+- OTA version: 
+- Branch: j4primeltecis-user-8.1.0-M1AJQ-J415FNXXU1ARK5-release-keys
+- Repo: samsung_j4primelte_dump

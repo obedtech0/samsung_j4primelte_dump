@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-J415FN</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OVF</MultiCode>
+    <CustomerDataSet>
+        <CSCName>J415FNOVF</CSCName>
+        <CSCVersion>1ARK5</CSCVersion>
+        <NbCustomer>15</NbCustomer>
+        <CustomerData src="/Customer/ATL/customer.xml" />
+        <CustomerData src="/Customer/AVF/customer.xml" />
+        <CustomerData src="/Customer/CNX/customer.xml" />
+        <CustomerData src="/Customer/CYV/customer.xml" />
+        <CustomerData src="/Customer/OMN/customer.xml" />
+        <CustomerData src="/Customer/SIM/customer.xml" />
+        <CustomerData src="/Customer/TCL/customer.xml" />
+        <CustomerData src="/Customer/VD2/customer.xml" />
+        <CustomerData src="/Customer/VDC/customer.xml" />
+        <CustomerData src="/Customer/VDF/customer.xml" />
+        <CustomerData src="/Customer/VDH/customer.xml" />
+        <CustomerData src="/Customer/VDI/customer.xml" />
+        <CustomerData src="/Customer/VGR/customer.xml" />
+        <CustomerData src="/Customer/VOD/customer.xml" />
+        <CustomerData src="/Customer/VIP/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>ATL</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_ATL_OO_0007</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>AVF</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_AVF_OO_0005</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="al.myvodafone.android" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CNX</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_CNX_OO_0009</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CYV</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_CYV_OO_0007</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>OMN</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_OMN_OO_0007</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SIM</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_SIM_OO_0008</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="si.mobil.info" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>TCL</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_TCL_OO_0009</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+            <Packages>
+                <package name="com.innovagency.vodafonekiosk" />
+                <package name="pt.vodafone.tvnetvoz" />
+                <package name="wit.matm" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>VD2</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_VD2_OO_0007</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>VDC</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_VDC_OO_0007</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.medicalit.zachranka" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>VDF</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_VDF_OO_0008</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>VDH</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_VDH_OO_0005</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>VDI</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_VDI_OO_0006</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.VodafoneIreland.MyVodafone" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>VGR</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_VGR_OO_0005</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>VIP</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_VIP_OO_0010</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+            <Packages>
+                <package name="hr.infinum.mojvip" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>VOD</CustomerCode>
+            <Version>SAOMC_SM-J415FN_OVF_VOD_OO_0004</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

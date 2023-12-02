@@ -1,0 +1,9 @@
+/odm/app/4.4.4.Agosto(175)_ATL/4.4.4.Agosto(175)_ATL.apk
+/odm/app/com.zentity.vodafone-3.2.1(20180528)_VDC/com.zentity.vodafone-3.2.1(20180528)_VDC.apk
+/odm/app/instagram_stub/instagram_stub.apk
+/odm/app/MyVodafone_4.1.1_TCL/MyVodafone_4.1.1_TCL.apk
+/odm/app/MyVodafone_9.9.1_prod_store_OMN/MyVodafone_9.9.1_prod_store_OMN.apk
+/odm/app/MyVodafone-production-R7.2B39_VOD/MyVodafone-production-R7.2B39_VOD.apk
+/odm/app/newMcare_AUTH_PROD_v3.3.7_CNX/newMcare_AUTH_PROD_v3.3.7_CNX.apk
+/odm/app/vfgr-myvf-android_4.5.0.23_LiveRelease_VGR/vfgr-myvf-android_4.5.0.23_LiveRelease_VGR.apk
+/odm/priv-app/apt_Vodafone_StartOne_Katniss_v12.2.6_PROD_Samsung_signed/apt_Vodafone_StartOne_Katniss_v12.2.6_PROD_Samsung_signed.apk

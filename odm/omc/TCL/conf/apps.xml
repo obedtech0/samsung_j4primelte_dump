@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appList>
+  <appInfo>
+    <package>com.innovagency.vodafonekiosk</package>
+    <mandatory>true</mandatory>
+    <downloadType>samsungapps</downloadType>
+    <appName>Vodafone Quiosque</appName>
+  </appInfo>
+  <appInfo>
+    <package>pt.vodafone.tvnetvoz</package>
+    <mandatory>true</mandatory>
+    <downloadType>samsungapps</downloadType>
+    <appName>Tv Vodafone</appName>
+  </appInfo>
+  <appInfo>
+    <package>wit.matm</package>
+    <mandatory>true</mandatory>
+    <downloadType>samsungapps</downloadType>
+    <appName>MB PHONE</appName>
+  </appInfo>
+</appList>

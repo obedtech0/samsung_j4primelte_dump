@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-J415FN_OVF_VDI_OO_0006</version>
+  <model>
+    <name>SM-J415FN</name>
+  </model>
+  <common>
+    <charging>Charge</charging>
+    <networkBearer>All</networkBearer>
+    <optionalApp>checked</optionalApp>
+  </common>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0003</customerEdition>
+    <others>no</others>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <cp>no</cp>
+    <language>no</language>
+    <apps>yes</apps>
+    <resources>no</resources>
+    <defaultWorkspace>yes</defaultWorkspace>
+    <defaultApplicationOrder>yes</defaultApplicationOrder>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>1</carrierCount>
+    <carrier>
+      <mcc>272</mcc>
+      <mnc>01</mnc>
+      <networkName>vodafone IE</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

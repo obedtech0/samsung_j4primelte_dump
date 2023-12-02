@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appList>
+  <appInfo>
+    <package>si.mobil.info</package>
+    <mandatory>true</mandatory>
+    <downloadType>samsungapps</downloadType>
+    <appName>Moj A1</appName>
+  </appInfo>
+</appList>

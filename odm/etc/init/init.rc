@@ -1,0 +1,6 @@
+on fs
+    mkdir /omr 0771 system system
+    wait /dev/block/bootdevice/by-name/omr
+    mount ext4 /dev/block/bootdevice/by-name/omr /omr nosuid nodev noatime noauto_da_alloc,discard,journal_checksum,data=ordered,errors=panic
+    chown system system /omr
+    chmod 0771 /omr
